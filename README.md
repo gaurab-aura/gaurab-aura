@@ -1,16 +1,42 @@
-## Hi there 👋
+👋🧙‍♂️ Gaurab Khatiwada — Developer Inventory
+┌───────────────────────────────┐
+│ 👤 Name: Gaurab               │
+│ 🌍 Region: Nepal              │
+│ 🧠 Class: Student / Developer │
+│ 🎮 Level: 21 (age...)         │
+└───────────────────────────────┘
+🎒 Inventory
+┌──────────────┬────────────────────┐
+│ 🗡️ Weapon     │ Python            │
+│ 🛡️ Armor      │ Problem Solving   │
+│ 🧪 Potions    │ Coffee ☕        │
+│ 📜 Scrolls    │ JavaScript (basic)│
+│ 💰 Gold       │ Ideas & Curiosity │
+└──────────────┴────────────────────┘
+🧬 Stats
+HP (Health)        ██████████ 100%
+MP (Focus)         ███████░░░ 70%
+XP (Experience)    █████░░░░░ 50%
+Skill (Coding)     ██████░░░░ 60%
 
-<!--
-**gaurab-aura/gaurab-aura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗺️ Active Quests...
+🐍 Master Python
+🌐 Build web apps
+🛠️ Create useful tools
+💡 Start a tech project
 
-Here are some ideas to get you started:
+🏆 Achievements....
+🥇 Started coding journey
+⚔️ Completed beginner projects
+🔒 Unlocking advanced skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Skill Tree (Coming Soon)...
+⚡ Advanced Python
+🧠 Data Structures
+🌍 Full Stack Dev
+💸 Tech + Business
+
+🎯 GitHub: https://github.com/gaurab-aura
+📧 Email: matoandlily@email.com
+
+“Every pro was once a level 1 with no gear.”
